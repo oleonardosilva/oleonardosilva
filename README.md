@@ -5,14 +5,13 @@
 Hi there! 👋 My name is **Leonardo**, a passionate 18-year-old tech enthusiast currently pursuing my final year of an integrated high school and technical program in **Informatics** at **IFSP Cubatão**. Here's a bit about me:
 
 - 🎓 I'm studying to become an expert in technology while balancing my academic life with projects that make a difference.
+- 🖥️ I started programming by creating **Minecraft plugins** and have since fallen in love with backend development (though I can handle frontend too!).
 - 💼 I had the opportunity to work on **intelligent assistant projects** at [DAI](https://www.dai.tec.br/), where I contributed to innovative solutions.
 - 🎉 As the **Director of Informatics** for my school's student council, I created a complete digital ticket management system for academic events—from scratch!
 - ✝️ I’m Catholic, and I find inspiration in faith and community.
 - 🎮 My favorite game is **Red Dead Redemption II** (I’ll never get over you, Arthur Morgan!).
-- 🖥️ I started programming by creating **Minecraft plugins** and have since fallen in love with backend development (though I can handle frontend too!).
-- 🚀 My dream is to study at **ITA (Instituto Tecnológico de Aeronáutica)** and become an **aerospace engineer**.
 
-Feel free to connect with me via [Instagram](https://www.instagram.com/_oleonardosilva/) or email me at **l.6042silva@gmail.com**.
+Feel free to connect with me via [Instagram](https://www.instagram.com/_oleonardosilva/) or email me at **oleonardosilva.dev@gmail.com**.
 
 ---
 
