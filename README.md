@@ -1,68 +1,26 @@
-# Leonardo's GitHub Profile
+# Welcome to my Github!
 
 ## About Me
 
-Hi there! 👋 My name is **Leonardo**, a passionate 18-year-old tech enthusiast currently pursuing my final year of an integrated high school and technical program in **Informatics** at **IFSP Cubatão**. Here's a bit about me:
+Hi there! 👋 My name is **Leonardo**, a tech enthusiast currently pursuing my final year of an integrated high school and technical program in **Informatics** at **IFSP Cubatão**. Here's a bit about me:
 
 - 🎓 I'm studying to become an expert in technology while balancing my academic life with projects that make a difference.
-- 🖥️ I started programming by creating **Minecraft plugins** and have since fallen in love with backend development (though I can handle frontend too!).
+- 🖥️ I started programming by creating **Minecraft plugins** and have since fallen in love with backend development.
 - 💼 I had the opportunity to work on **intelligent assistant projects** at [DAI](https://www.dai.tec.br/), where I contributed to innovative solutions.
-- 🎉 As the **Director of Informatics** for my school's student council, I created a complete digital ticket management system for academic events—from scratch!
+- 🎉 As the **Director of Informatics** for my school's student council, I created a complete digital ticket management system for academic events.
 - ✝️ I’m Catholic, and I find inspiration in faith and community.
 - 🎮 My favorite game is **Red Dead Redemption II** (I’ll never get over you, Arthur Morgan!).
 
-Feel free to connect with me via [Instagram](https://www.instagram.com/_oleonardosilva/) or email me at **oleonardosilva.dev@gmail.com**.
+Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/oleonardosilva/) or email me at **oleonardosilva.dev@gmail.com**.
 
 ---
 
 ## Skills
 
-### <p align="center">Programming Languages:</p>
+| 🧠 Programming Languages          | ⚙️ Frameworks & Tools         | 🗄️ Databases     | 📬 Messaging | 📈 Observability     | 🐳 Virtualization |
+|------------------------|-------------------------------|------------------------|----------------|-------------------------|-------------------|
+| ![Java](https://img.shields.io/badge/java-ED8B00?style=flat&logo=openjdk&logoColor=white) <br> ![Go](https://img.shields.io/badge/go-00ADD8?style=flat&logo=go&logoColor=white) <br> ![TS](https://img.shields.io/badge/typescript-007ACC?style=flat&logo=typescript&logoColor=white) <br> ![JS](https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black) <br> ![C#](https://img.shields.io/badge/csharp-239120?style=flat&logo=csharp&logoColor=white) | ![Spring](https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white) <br> ![Next.js](https://img.shields.io/badge/next.js-000000?style=flat&logo=next.js&logoColor=white) <br> ![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=flat&logo=nestjs&logoColor=white) <br> ![React](https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=black) <br> ![Tailwind](https://img.shields.io/badge/tailwindcss-38B2AC?style=flat&logo=tailwind-css&logoColor=white) <br> ![.NET](https://img.shields.io/badge/.net-512BD4?style=flat&logo=dotnet&logoColor=white) <br> ![Express](https://img.shields.io/badge/express-404d59?style=flat&logo=express&logoColor=white) <br> ![Node](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/postgresql-336791?style=flat&logo=postgresql&logoColor=white) <br> ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white) <br> ![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=flat&logo=mongodb&logoColor=white) <br> ![Redis](https://img.shields.io/badge/redis-DC382D?style=flat&logo=redis&logoColor=white) | ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=flat&logo=rabbitmq&logoColor=white) | ![Prometheus](https://img.shields.io/badge/prometheus-E6522C?style=flat&logo=prometheus&logoColor=white) <br> ![Grafana](https://img.shields.io/badge/grafana-F46800?style=flat&logo=grafana&logoColor=white) <br> ![OpenTelemetry](https://img.shields.io/badge/opentelemetry-000000?style=flat&logo=opentelemetry&logoColor=white) | ![Docker](https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white) |
 
-<p align="center">
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Go-%2300ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-%23239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-</p>
-
-### <p align="center">Frameworks & Tools:</p>
-<p align="center">
-<img src="https://img.shields.io/badge/Spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/NestJS-%23E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/.NET-%235C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
-<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-</p>
-
-### <p align="center">Databases:</p>
-<p align="center">
-<img src="https://img.shields.io/badge/PostgreSQL-%23336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-%2343A047?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>
-</p>
-
-### <p align="center">Messaging:</p>
-<p align="center">
-<img src="https://img.shields.io/badge/RabbitMQ-%23FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
-</p>
-
-### <p align="center">Observability:</p>
-<p align="center">
-<img src="https://img.shields.io/badge/OpenTelemetry-%23FFFFFF?style=for-the-badge&logo=opentelemetry&logoColor=black"/>
-<img src="https://img.shields.io/badge/Prometheus-%23E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Grafana-%23F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-</p>
-
-### <p align="center">Virtualization:</p>
-<p align="center">
-<img src="https://img.shields.io/badge/Docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
-</p>
 
 ---
 
@@ -72,9 +30,8 @@ Feel free to connect with me via [Instagram](https://www.instagram.com/_oleonard
 
 ---
 
-## Social Media
+## Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oleonardosilva/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@leonardodasilva/)
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:l.6042silva@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_oleonardosilva/)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:oleonardosilva.dev@gmail.com)
 
