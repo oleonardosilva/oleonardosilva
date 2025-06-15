@@ -34,4 +34,5 @@ Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/oleonard
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oleonardosilva/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@leonardodasilva/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:oleonardosilva.dev@gmail.com)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-donate-yellow?logo=buymeacoffee&style=for-the-badge)](https://buymeacoffee.com/oleonardosilva)
 
