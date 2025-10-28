@@ -6,7 +6,6 @@ Hi there! 👋 My name is **Leonardo**, a tech enthusiast currently pursuing my 
 
 - 🎓 I'm studying to become an expert in technology while balancing my academic life with projects that make a difference.
 - 🖥️ I started programming by creating **Minecraft plugins** and have since fallen in love with backend development.
-- 💼 I had the opportunity to work on **intelligent assistant projects** at [DAI](https://www.dai.tec.br/), where I contributed to innovative solutions.
 - 🎉 As the **Director of Informatics** for my school's student council, I created a complete digital ticket management system for academic events.
 - ✝️ I’m Catholic, and I find inspiration in faith and community.
 - 🎮 My favorite game is **Red Dead Redemption II** (I’ll never get over you, Arthur Morgan!).
