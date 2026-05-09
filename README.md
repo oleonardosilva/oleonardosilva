@@ -23,12 +23,6 @@ Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/oleonard
 
 ---
 
-## Stats
-| <a href="https://github.com/oleonardosilva"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oleonardosilva&theme=tokyonight" alt="Leonardo's github stats" /></a> | <a href="https://github.com/oleonardosilva"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oleonardosilva&layout=compact&theme=tokyonight&hide_border=true" /></a> |
-| ------------- | ------------- |
-
----
-
 ## Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oleonardosilva/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@leonardodasilva/)
